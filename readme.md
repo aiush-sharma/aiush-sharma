@@ -36,7 +36,7 @@ COMMITMENT     : 100% Comprehensive testing (API, Payment & Security)
 ## GitHub Streak
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=aiush-sharma&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=aiush-sharma&theme=radical)](https://git.io/streak-stats)
 </p>
 
 ## Languages
