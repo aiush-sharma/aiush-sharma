@@ -19,7 +19,7 @@ TRIBHUVAN UNIVERSITY, NEPAL      |  B.Sc. CSIT — 4th SEMESTER
   CORE OBJECTIVE : Engineering high-performance production web apps
   PLUGINS        : Creating SEO-optimized, monetization-ready solutions
 COMMITMENT     : 100% Comprehensive testing (API, Payment & Security)
-  ───────────────────────────────────────────────────────────────────────────
+
 
 
 ```
