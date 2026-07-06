@@ -36,9 +36,10 @@ COMMITMENT     : 100% Comprehensive testing (API, Payment & Security)
 ## GitHub Streak
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=aiush-sharma&theme=radical)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=aiush-sharma&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
-
 ## Languages
 
 <p align="center">
