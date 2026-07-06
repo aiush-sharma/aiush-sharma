@@ -1,7 +1,9 @@
 ﻿<div align="center">
 
 <!-- PROFILE HERO BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AIUSH+SHARMA+--PROFILE+INIT;%3E+STATUS%3A+ACTIVE" alt="Terminal Header" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AIUSH+SHARMA+--PROFILE+INIT;CSIT+STUDENT++--4TH+SEM;FULL+STACK+DEVELOPER" alt="Terminal Header" />
+</p>
 
 ```bash
 AIUSH-SHARMA ~ % PROFILE --INFO
