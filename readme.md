@@ -33,6 +33,12 @@ COMMITMENT     : 100% Comprehensive testing (API, Payment & Security)
 - **Development Focus:** Engineering high-performance production web applications and scalable, monetization-ready plugins.
 - **Engineering Standards:** Committed to writing clean, responsive, accessible, and thoroughly tested code optimized for SEO.
 
+## GitHub Streak
+
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aiush-sharma&theme=radical)](https://git.io/streak-stats)
+</p>
+
 ## Languages
 
 <p align="center">
