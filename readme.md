@@ -20,7 +20,7 @@ TRIBHUVAN UNIVERSITY, NEPAL      |  B.Sc. CSIT — 4th SEMESTER
   PLUGINS        : Creating SEO-optimized, monetization-ready solutions
 COMMITMENT     : 100% Comprehensive testing (API, Payment & Security)
   ───────────────────────────────────────────────────────────────────────────
-  SYSTEM STATUS    : ONLINE        |  READY FOR ENTERPRISE-GRADE DEPLOYMENTS
+
 
 ```
 
@@ -37,8 +37,7 @@ COMMITMENT     : 100% Comprehensive testing (API, Payment & Security)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=aiush-sharma&theme=radical" alt="GitHub Streak" />
-
+    <img src="https://github-readme-streak-stats-two-drab.vercel.app?user=aiush-sharma&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 ## Languages
