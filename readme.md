@@ -15,12 +15,7 @@ AIUSH-SHARMA ~ % PROFILE --INFO
 ██║  ██║██║╚██████╔╝███████║██║  ██║    ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
 ╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 
-TRIBHUVAN UNIVERSITY, NEPAL      |  B.Sc. CSIT — 4th SEMESTER
-  ───────────────────────────────────────────────────────────────────────────
-  SPECIALIZATION : Full-Stack Architecture & UI/UX Design
-  CORE OBJECTIVE : Engineering high-performance production web apps
-  PLUGINS        : Creating SEO-optimized, monetization-ready solutions
-COMMITMENT     : 100% Comprehensive testing (API, Payment & Security)
+
 
 
 
@@ -35,13 +30,6 @@ COMMITMENT     : 100% Comprehensive testing (API, Payment & Security)
 - **Development Focus:** Engineering high-performance production web applications and scalable, monetization-ready plugins.
 - **Engineering Standards:** Committed to writing clean, responsive, accessible, and thoroughly tested code optimized for SEO.
 
-## GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-two-drab.vercel.app?user=aiush-sharma&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
 ## Languages
 
 <p align="center">
